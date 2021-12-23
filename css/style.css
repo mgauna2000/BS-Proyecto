@@ -14,3 +14,18 @@
 .navbar img {
     cursor: pointer;
 }
+/* jumbotron */
+.jumbotron {
+    background-image: url('../img/off-canvas.jpg');
+    height: 250px;
+    background-size: cover;
+    background-position: bottom;
+}
+.jumbotron h1 {
+    font-size: 60px;
+    text-align: center;
+}
+.jumbotron p {
+    font-size: 20px;
+    text-align: center;
+}
