@@ -17,7 +17,7 @@
 /* jumbotron */
 .jumbotron {
     background-image: url('../img/off-canvas.jpg');
-    height: 250px;
+    height: auto;
     background-size: cover;
     background-position: bottom;
 }
