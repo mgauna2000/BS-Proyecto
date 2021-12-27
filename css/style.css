@@ -70,6 +70,6 @@
 .carousel-inner {  
     padding: 20px;
 }
-.galleria {
-    
+.carousel-inner img {
+    height: 450px;
 }
