@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* navbar */
 .offcanvas-body ul li a {
     text-transform: uppercase;
@@ -50,4 +56,13 @@
 }
 .card-text {
     text-align: center;
+}
+/* card company */
+.oficina-maquinaria {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.oficina-maquinaria h2 {
+    font-size: 45px;
+    font-family: 'Allerta Stencil', sans-serif;
 }
