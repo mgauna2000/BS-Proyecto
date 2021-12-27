@@ -73,3 +73,17 @@
 .carousel-inner img {
     height: 450px;
 }
+.galeria {
+    font-size: 45px;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+/* formulario */
+.formulario h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.formulario p {
+    color: aliceblue;
+}
