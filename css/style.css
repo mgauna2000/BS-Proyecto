@@ -70,6 +70,14 @@
     font-size: 45px;
     font-family: 'Allerta Stencil', sans-serif;
 }
+.oficina-maquinaria h5 {
+    font-size: 45px;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.oficina-maquinaria p {
+    font-size: 20px;
+    padding-top: 20px;
+}
 /* carrusel */
 .carousel-inner {  
     padding: 20px;
