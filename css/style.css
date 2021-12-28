@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 /* navbar */
@@ -34,6 +35,9 @@
     text-align: center;
     padding-top: 30px;
     font-family: 'Allerta Stencil', sans-serif;
+    animation-duration: 2s;
+    animation-name: aparecer;
+    animation-iteration-count: initial;
 }
 .jumbotron p {
     font-size: 20px;
@@ -86,4 +90,18 @@
 }
 .formulario p {
     color: aliceblue;
+}
+.form {
+    background-image: url('../img/off-canvas.jpg');
+}
+.card-img {
+    height: 450px;
+}
+@keyframes aparecer {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
