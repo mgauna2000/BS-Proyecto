@@ -67,7 +67,7 @@
     padding-bottom: 20px;
 }
 .oficina-maquinaria h2 {
-    font-size: 45px;
+    font-size: 40px;
     font-family: 'Allerta Stencil', sans-serif;
 }
 .oficina-maquinaria h5 {
@@ -89,6 +89,10 @@
     font-size: 45px;
     font-family: 'Allerta Stencil', sans-serif;
 }
+.galeria h2 {
+    font-size: 40px;
+    font-family: 'Allerta Stencil', sans-serif;
+}
 /* formulario */
 .formulario h2 {
     color: aliceblue;
@@ -98,12 +102,17 @@
 }
 .formulario p {
     color: aliceblue;
+    font-size: 25px;
 }
 .form {
     background-image: url('../img/off-canvas.jpg');
 }
 .card-img {
     height: 450px;
+}
+.contactanos p {
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 32px;
 }
 @keyframes aparecer {
     0% {
