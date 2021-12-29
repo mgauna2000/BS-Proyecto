@@ -114,6 +114,20 @@
     font-family: 'Allerta Stencil', sans-serif;
     font-size: 32px;
 }
+/* 6 ejes */
+.seis-ejes {
+    margin-top: 90px;
+}
+.seis-ejes img {
+    height: 500px;
+}
+/* delta */
+.delta {
+    margin-top: 90px;
+}
+.delta img {
+    height: 500px;
+}
 @keyframes aparecer {
     0% {
         opacity: 0;
