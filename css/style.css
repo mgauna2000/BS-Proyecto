@@ -1,173 +1,182 @@
-@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 /* navbar */
 .offcanvas-body ul li a {
-    text-transform: uppercase;
-    font-size: 20px;
+  text-transform: uppercase;
+  font-size: 20px;
 }
 .offcanvas-body {
-    background-image: url('../img/off-canvas.jpg');
-    background-size: cover;
-    background-position: center;
+  background-image: url("../img/off-canvas.jpg");
+  background-size: cover;
+  background-position: center;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: #fff;
+  color: #fff;
 }
 .navbar img {
-    cursor: pointer;
+  cursor: pointer;
 }
 /* jumbotron */
 .jumbotron {
-    background-image: url('../img/off-canvas.jpg');
-    height: auto;
-    background-size: cover;
-    background-position: bottom;
+  background-image: url("../img/off-canvas.jpg");
+  height: auto;
+  background-size: cover;
+  background-position: bottom;
 }
 .jumbotron h1 {
-    font-size: 60px;
-    text-align: center;
-    padding-top: 30px;
-    font-family: 'Allerta Stencil', sans-serif;
-    animation-duration: 2s;
-    animation-name: aparecer;
-    animation-iteration-count: initial;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 30px;
+  font-family: "Allerta Stencil", sans-serif;
+  animation-duration: 2s;
+  animation-name: aparecer;
+  animation-iteration-count: initial;
 }
 .jumbotron p {
-    font-size: 20px;
-    text-align: center;
+  font-size: 20px;
+  text-align: center;
 }
 /* card */
 .titulo-prod {
-    font-size: 45px;
-    font-family: 'Allerta Stencil', sans-serif;
+  font-size: 45px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 .card {
-    margin-top: 5px;
+  margin-top: 5px;
 }
 .card h5 {
-    text-align: center;
+  text-align: center;
 }
 .btn {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .card-text {
-    text-align: center;
+  text-align: center;
 }
 /* card company */
 .oficina-maquinaria {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .oficina-maquinaria h2 {
-    font-size: 40px;
-    font-family: 'Allerta Stencil', sans-serif;
+  font-size: 40px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 .oficina-maquinaria h5 {
-    font-size: 45px;
-    font-family: 'Allerta Stencil', sans-serif;
+  font-size: 45px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 .oficina-maquinaria p {
-    font-size: 20px;
-    padding-top: 20px;
+  font-size: 20px;
+  padding-top: 20px;
 }
 /* carrusel */
-.carousel-inner {  
-    padding: 20px;
+.carousel-inner {
+  padding: 20px;
 }
 .carousel-inner img {
-    height: 450px;
+  height: 450px;
 }
 .galeria {
-    font-size: 45px;
-    font-family: 'Allerta Stencil', sans-serif;
+  font-size: 45px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 .galeria h2 {
-    font-size: 40px;
-    font-family: 'Allerta Stencil', sans-serif;
+  font-size: 40px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 /* formulario */
 .formulario h2 {
-    color: aliceblue;
-    text-align: center;
-    font-size: 45px;
-    font-family: 'Allerta Stencil', sans-serif;
+  color: aliceblue;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Allerta Stencil", sans-serif;
 }
 .formulario p {
-    color: aliceblue;
-    font-size: 25px;
+  color: aliceblue;
+  font-size: 25px;
 }
 .form {
-    background-image: url('../img/off-canvas.jpg');
+  background-image: url("../img/off-canvas.jpg");
 }
 .card-img {
-    height: 450px;
+  height: 450px;
 }
 .contactanos p {
-    font-family: 'Allerta Stencil', sans-serif;
-    font-size: 32px;
+  font-family: "Allerta Stencil", sans-serif;
+  font-size: 32px;
 }
 /* 6 ejes */
 .seis-ejes {
-    margin-top: 90px;
+  margin-top: 90px;
 }
 .seis-ejes img {
-    height: 712px;
-    width: auto;
+  height: 712px;
+  width: auto;
 }
 .seis-ejes p {
-    font-size: 20px;
-    padding: 10px;
+  font-size: 20px;
+  padding: 10px;
 }
 /* delta */
 .delta {
-    margin-top: 90px;
+  margin-top: 90px;
 }
 .delta img {
-    height: 712px;
+  height: 712px;
 }
 .delta p {
-    font-size: 20px;
-    padding: 10px;
+  font-size: 20px;
+  padding: 10px;
 }
 /* paletizador */
 .paletizador {
-    margin-top: 90px;
+  margin-top: 90px;
 }
 .paletizador h4 {
-    font-size: 30px;
+  font-size: 30px;
 }
 .paletizador p {
-    font-size: 20px;
-    padding-top: 20px;
+  font-size: 20px;
+  padding-top: 20px;
 }
 /* scara */
 .scara {
-    margin-top: 90px;
+  margin-top: 90px;
 }
 .scara img {
-    height: 712px;
+  height: 712px;
 }
 .scara h4 {
-    font-size: 30px;
+  font-size: 30px;
 }
 .scara p {
-    font-size: 20px;
-    padding-top: 10px;
-    padding-bottom: 40px;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+/* footer */
+.footer h2 {
+  font-size: 45px;
+  font-family: "Allerta Stencil", sans-serif;
+  padding-bottom: 20px;
+}
+.copy {
+  background-color: rgba(0, 0, 0, 0.2);
 }
 @keyframes aparecer {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
