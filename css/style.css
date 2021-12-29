@@ -119,14 +119,49 @@
     margin-top: 90px;
 }
 .seis-ejes img {
-    height: 500px;
+    height: 712px;
+    width: auto;
+}
+.seis-ejes p {
+    font-size: 20px;
+    padding: 10px;
 }
 /* delta */
 .delta {
     margin-top: 90px;
 }
 .delta img {
-    height: 500px;
+    height: 712px;
+}
+.delta p {
+    font-size: 20px;
+    padding: 10px;
+}
+/* paletizador */
+.paletizador {
+    margin-top: 90px;
+}
+.paletizador h4 {
+    font-size: 30px;
+}
+.paletizador p {
+    font-size: 20px;
+    padding-top: 20px;
+}
+/* scara */
+.scara {
+    margin-top: 90px;
+}
+.scara img {
+    height: 712px;
+}
+.scara h4 {
+    font-size: 30px;
+}
+.scara p {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 40px;
 }
 @keyframes aparecer {
     0% {
