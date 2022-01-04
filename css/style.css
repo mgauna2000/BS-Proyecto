@@ -6,6 +6,9 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+body {
+  background-image: url('../img/off-canvas.jpg');
+}
 
 /* navbar */
 .offcanvas-body ul li a {
@@ -172,6 +175,7 @@
 .copy {
   background-color: rgba(0, 0, 0, 0.2);
 }
+
 @keyframes aparecer {
   0% {
     opacity: 0;
