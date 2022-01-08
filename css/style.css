@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Graduate&family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Graduate&family=Playfair+Display+SC&display=swap');
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'Antic Slab', serif;
 }
 body {
   background-image: url('../img/off-canvas.jpg');
@@ -30,6 +30,9 @@ body {
 .nav-link {
   margin: 0 10px;
   font-family: 'Playfair Display SC', serif;
+}
+.offcanvas-title {
+  font-family: 'Graduate', cursive;
 }
 /* jumbotron */
 .jumbotron {
