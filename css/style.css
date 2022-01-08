@@ -25,6 +25,10 @@ body {
 }
 .navbar img {
   cursor: pointer;
+  height: 78px;
+}
+.nav-link {
+  margin: 0 10px;
 }
 /* jumbotron */
 .jumbotron {
